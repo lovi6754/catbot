@@ -1,6 +1,6 @@
 {
     "name": "CHATBOT", 
-    "logo": "https://te.legra.ph/file/8b924418723b97177b552.jpg",
+    "logo": "https://te.legra.ph/file/94047bf0f00191e509246.jpg",
     "description": "An Advanced Telegram UserId Chatbot.",
     "env": {
         "STRING": {
